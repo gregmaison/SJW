@@ -1,2 +1,2 @@
 # SJW
-Church mManagement System
+Church Management System
